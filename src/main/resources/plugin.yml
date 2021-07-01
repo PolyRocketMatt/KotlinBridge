@@ -1,0 +1,5 @@
+name: KotlinBridge
+version: 1.0
+main: com.github.polyrocketmatt.kbridge.KotlinBridge
+api-version: 1.16
+author: Matthias Kovacic
